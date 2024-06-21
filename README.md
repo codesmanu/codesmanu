@@ -1,5 +1,7 @@
-[![MasterHead](https://i.imgur.com/Ha6gmiV.jpeg)](https://github.com/codesmanu)
-Hello World!!
+
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/741/563/743/my-neighbor-totoro-studio-ghibli-anime-wallpaper-preview.jpg)](https://github.com/codesmanu)
+
+### 🍒 Hello World!!
 Me chamo Emanuelly Rackel, sou de São Luís/MA e graduanda em Engenharia de Software ✨
 <div>
 Tenho interesse na área de UX Designer/Full Stack 🍒 
