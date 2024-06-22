@@ -17,7 +17,7 @@ Tenho interesse na área de UX Designer/Full Stack 🍒
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=58avbzqwprq7fdp5o15ifpv2h&cover_image=true&theme=natemoo-re&show_offline=false&background_color=fbc1d2&interchange=false&bar_color=ff8fbf&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
 
 <br>
-<div align="center">
+<div>
     <img align="left" ; src="https://github-readme-stats.vercel.app/api/top-langs?username=codesmanu&layout=compact&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000&size_weight=0&count_weight=1" alt="manu" height = "130em"/>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=codesmanu&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000" alt="manu" height = "130em" />&nbsp;
     <img align="right" alt="Coding" width="auto" height="130em" src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif">
