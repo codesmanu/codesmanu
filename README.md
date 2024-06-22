@@ -12,9 +12,10 @@ Tenho interesse na área de UX Designer/Full Stack 🍒
 </div>
 <p>Meu bff na hora de codar 👩🏼‍💻🎶:</p>
 </div>
- 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=58avbzqwprq7fdp5o15ifpv2h&width=300&height=100&count=2)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=58avbzqwprq7fdp5o15ifpv2h&cover_image=true&theme=natemoo-re&show_offline=false&background_color=fbc1d2&interchange=false&bar_color=ff8fbf&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 
 <!---
