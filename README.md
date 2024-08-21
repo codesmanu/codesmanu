@@ -1,6 +1,3 @@
-
-  <img src="https://c4.wallpaperflare.com/wallpaper/741/563/743/my-neighbor-totoro-studio-ghibli-anime-wallpaper-preview.jpg" alt="MasterHead" width="1500"/>
-
 ### 🍒 Hello World!!
 <h4>Me chamo Emanuelly Rackel, sou de São Luís/MA e graduanda em Engenharia de Software ✨
 <div>
