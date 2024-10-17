@@ -7,9 +7,7 @@ Tenho interesse na área de UX Designer/Full Stack 🍒
 </h4>
 <div>
 
-</div>
-<p>Meu bff na hora de codar 👩🏼‍💻🎶:</p>
-</div>
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=58avbzqwprq7fdp5o15ifpv2h&cover_image=true&theme=natemoo-re&show_offline=false&background_color=fbc1d2&interchange=false&bar_color=ff8fbf&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
 
