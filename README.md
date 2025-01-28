@@ -2,8 +2,8 @@
 <h4>Me chamo Emanuelly Rackel, sou de São Luís/MA e estou cursando Engenharia de Software ✨
 <div>
 Tenho interesse na área de UX Designer e sou uma aspirante à Informática Biomédica 🍒 
-<p>Atualmente estudando as linguagens e jogando meus projetinhos por aqui 🙃 
-<p>Gosto de participar de diferentes comunidades para expandir meu conhecimento e cooperar nas mais diversas áreas!!
+<p>Atualmente estudando as linguagens e jogando meus projetinhos por aqui </p>
+<p>Gosto de participar de diferentes comunidades para expandir meu conhecimento e cooperar nas mais diversas áreas!!</p>
 </h4>
 </div>
 
