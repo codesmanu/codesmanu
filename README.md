@@ -1,23 +1,21 @@
 ## Hello World, I'm Emanuelly Rackel !! 🍒
 
-<img align="right" src="https://giffiles.alphacoders.com/145/14566.gif" width="250" height="250" alt="Emanuely Rackel" />
+<img align="right" src="https://giffiles.alphacoders.com/145/14566.gif" width="400" height="400" alt="Totoro">
+
 <p>
     ❤ Estudante de Engenharia de Software</br>
     ✨Amante de UX/UI e Informática Biomédica</br>
     🚀Jogo meus projetinhos por aqui</br>
+    <img align="auto" src="https://i.pinimg.com/originals/d5/42/ab/d542abfcb933321da29cc808847ee4a1.gif" height="60" width="60" alt="Bola de Pelo" />
 </p>
 
 ### Main Techonologies:
 
 <div style="display:flex">
-    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        alt="javascript" />
-    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-        color="white" alt="reactjs" />
-    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-        alt="nextjs" />
-    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs" />
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"/>
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" color="white" alt="reactjs"/>
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs"/>
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/> 
 </div>
 
 
@@ -36,6 +34,7 @@
             alt="instagram" target="_blank">
     </a>
 </div>
+
 
 
 <!---
