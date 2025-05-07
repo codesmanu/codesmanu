@@ -21,6 +21,7 @@
 </div>
 
 ### Where find me?
+<p>contacts</p>
 
 <div style="display:flex">
     <a href="mailto:contact.rackel@gmail.com">
