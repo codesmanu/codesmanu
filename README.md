@@ -1,6 +1,6 @@
 ## Hello World, I'm Emanuelly Rackel !! 🍒
 
-<img align="right" src="https://giffiles.alphacoders.com/145/14566.gif" width="300" height="300" alt="Emanuely Rackel" />
+<img align="right" src="https://giffiles.alphacoders.com/145/14566.gif" width="250" height="250" alt="Emanuely Rackel" />
 <p>
     ❤ Estudante de Engenharia de Software</br>
     ✨Amante de UX/UI e Informática Biomédica</br>
