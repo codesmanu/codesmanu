@@ -1,24 +1,40 @@
-### 🍒 Hello World!!
-<h4>Me chamo Emanuelly Rackel, sou de São Luís/MA e estou cursando Engenharia de Software ✨
-<div>
-Tenho interesse na área de UX Designer e sou uma aspirante à Informática Biomédica 🍒 
-<p>Atualmente estudando as linguagens e jogando meus projetinhos por aqui </p>
-<p>Gosto de participar de diferentes comunidades para expandir meu conhecimento e cooperar nas mais diversas áreas!!</p>
-</h4>
+## Hello World, I'm Emanuelly Rackel !! 🍒
+
+<img align="right" src="https://i.gifer.com/8TcH.gif" width="500" height="281" alt="Emanuely Rackel" />
+<p>
+    ❤ Estudante de Engenharia de Software</br>
+    ✨Amante de UX/UI e Informática Biomédica</br>
+    🚀Jogo meus projetinhos por aqui</br>
+</p>
+
+### Main Techonologies:
+
+<div style="display:flex">
+    <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        alt="javascript" />
+    <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+        color="white" alt="reactjs" />
+    <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+        alt="nextjs" />
+    <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+        alt="nodejs" />
 </div>
 
-<div>
-    <img align="left" ; src="https://github-readme-stats.vercel.app/api/top-langs?username=codesmanu&layout=compact&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000&size_weight=0&count_weight=1" alt="manu" height = "100em"/>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=codesmanu&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000" alt="manu" height = "100em" />&nbsp;
-   
-</div>
+### Where find me?
 
-<br>
-<div>
-    <a href = "mailto:contact.rackel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/emanuelly-rackel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-  </div>
+<div style="display:flex">
+    <a href="mailto:contact.rackel@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
+    </a>
+    <a href="https://www.linkedin.com/in/emanuelly-rackel//" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""
+            target="_blank">
+    </a>
+    <a href="https://www.instagram.com/llyrackel/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            alt="instagram" target="_blank">
+    </a>
+</div>
 
 
 <!---
