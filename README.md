@@ -20,8 +20,8 @@
         alt="nodejs" />
 </div>
 
-### Where find me?
-<p>contacts</p>
+
+<h3>Contact</h3>
 
 <div style="display:flex">
     <a href="mailto:contact.rackel@gmail.com">
