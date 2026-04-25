@@ -25,7 +25,7 @@
     <a href="mailto:contact.rackel@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
     </a>
-    <a href="https://www.linkedin.com/in/emanuelly-rackel//" target="_blank">
+    <a href="https://www.linkedin.com/in/emanuelly-rackel" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""
             target="_blank">
     </a>
